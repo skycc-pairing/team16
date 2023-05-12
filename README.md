@@ -1,2 +1,1 @@
-# team16
-SKYCC C팀
+# SKYCC C팀
